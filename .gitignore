@@ -1,0 +1,18 @@
+# JetBrains IDE (DataGrip) specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iml
+.vscode/
+
+# DataGrip console history
+.dataSources.xml
+.dataSources/
+
+# Temporary and log files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
