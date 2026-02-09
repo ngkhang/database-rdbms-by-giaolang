@@ -1,0 +1,14 @@
+FPT UNIVERSITY HCMC - © 2021 GIÁO.LÀNG | fb/giao.lang.bis | https://github.com/doit-now/database-craftsman | https://www.youtube.com/channel/UChsPO5CLUjOWfgwjfC2Y-Wg
+
+1. Thiết kế ERD và DDL (SQL Server) để lưu trữ thông tin về các seminar/buổi giảng/phụ đạo của các thầy cô
+    - Mỗi giảng viên có thể tổ chức nhiều seminar/buổi phụ đạo khác nhau
+    - Mỗi seminar/buổi phụ đạo chỉ do một giảng viên phụ trách
+    - Thông tin lưu trữ bao gồm:
+        + Giảng viên: mã, tên, email, phone, bộ môn (SE, CF, ITS, Incubator)
+        + Seminar/Phụ đạo:
+            Ngày giờ, loại hình tổ chức (seminar/phụ đạo/workshop), chủ đề, tóm tắt nội dung
+            Phòng học (nếu tiến hành offline), online-link (nếu tiến hành online), số lượng tham gia
+
+2. Thiết kế ERD và DDL lưu trữ thông tin các thành viên trong lớp 12A5 ở trường THPT XYZ.
+    Lớp 12A5 có 48 học sinh, chia làm 4 tổ, mỗi tổ có một tổ trưởng là học sinh có uy tín được các bạn bình bầu cử ra.
+    Thông tin cần lưu trữ bao gồm: mã số học sinh, tên, số di động, tên tổ (1, 2, 3, 4), tổ trưởng
