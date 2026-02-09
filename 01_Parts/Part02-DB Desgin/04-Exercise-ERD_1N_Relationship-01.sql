@@ -1,4 +1,4 @@
-/**
+/**------------------------------------------------------------------------------------------------
   Exercise: 02-Exercise-ERD_1N_Relationship.txt
 
   1. Thiết kế ERD và DDL (SQL Server) để lưu trữ thông tin về các seminar/buổi giảng/phụ đạo của các thầy cô
@@ -9,7 +9,7 @@
         + Seminar/Phụ đạo:
             Ngày giờ, loại hình tổ chức (seminar/phụ đạo/workshop), chủ đề, tóm tắt nội dung
             Phòng học (nếu tiến hành offline), online-link (nếu tiến hành online), số lượng tham gia
- */
+ ------------------------------------------------------------------------------------------------*/
 
 CREATE DATABASE DBDESIGN_ACTIVITIES;
 

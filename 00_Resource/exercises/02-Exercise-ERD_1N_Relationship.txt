@@ -10,5 +10,6 @@ FPT UNIVERSITY HCMC - © 2021 GIÁO.LÀNG | fb/giao.lang.bis | https://github.co
             Phòng học (nếu tiến hành offline), online-link (nếu tiến hành online), số lượng tham gia
 
 2. Thiết kế ERD và DDL lưu trữ thông tin các thành viên trong lớp 12A5 ở trường THPT XYZ.
-    Lớp 12A5 có 48 học sinh, chia làm 4 tổ, mỗi tổ có một tổ trưởng là học sinh có uy tín được các bạn bình bầu cử ra.
-    Thông tin cần lưu trữ bao gồm: mã số học sinh, tên, số di động, tên tổ (1, 2, 3, 4), tổ trưởng
+    - Lớp 12A5 có 48 học sinh, chia làm 4 tổ
+    - Mỗi tổ có một tổ trưởng là học sinh có uy tín được các bạn bầu cử ra.
+    - Thông tin cần lưu trữ bao gồm: mã số học sinh, tên, số di động, tên tổ (1, 2, 3, 4), tổ trưởng
